@@ -23,3 +23,19 @@ header ul li {
   display:inline;
   padding-right:100px;
 }
+
+header ul li a {
+  color:white;
+  text-decoration:none;
+}
+
+header ul li a:visited {
+  color:white;
+  text-decoration:none;
+}
+
+header ul li a:hover {
+   color:white;
+  text-decoration:none;
+  background-color:maroon;
+}
