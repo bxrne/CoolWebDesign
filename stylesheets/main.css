@@ -19,12 +19,14 @@ header {
 }
 
 header ul li {
+  padding-top:0;
   list-style-type:none;
   display:inline;
   padding-right:100px;
 }
 
 header ul li a {
+  padding-top:0;
   padding-left:7px;
   padding-right:7px;
   border-radius:10px;
@@ -33,6 +35,7 @@ header ul li a {
 }
 
 header ul li a:visited {
+  padding-top:0;
    padding-left:7px;
   padding-right:7px;
   border-radius:10px;
@@ -41,6 +44,7 @@ header ul li a:visited {
 }
 
 header ul li a:hover {
+  padding-top:0;
    padding-left:7px;
   padding-right:7px;
   border-radius:10px;
