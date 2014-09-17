@@ -25,16 +25,22 @@ header ul li {
 }
 
 header ul li a {
+  padding:2px;
+  border-radius:10px;
   color:white;
   text-decoration:none;
 }
 
 header ul li a:visited {
+   padding:2px;
+  border-radius:10px;
   color:white;
   text-decoration:none;
 }
 
 header ul li a:hover {
+   padding:2px;
+  border-radius:10px;
    color:white;
   text-decoration:none;
   background-color:maroon;
