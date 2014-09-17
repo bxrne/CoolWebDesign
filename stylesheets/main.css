@@ -8,7 +8,7 @@ clear:both;
 
 /* Header code  */
 header {
-  position:absolute;
+  position:fixed;
   top:0;
   margin:0;
   padding:0;
@@ -61,7 +61,7 @@ header ul li a:hover {
 
 /*section code*/
 section {
-  top:90px;
+  position:absolute;
   left:5%;
   width: 70%;
   height:550px;
