@@ -25,7 +25,19 @@ header ul li {
   padding-right:100px;
 }
 
+header ul li:first-child {
+  height:50px;
+  padding-top:0;
+  padding-left:7px;
+  padding-right:7px;
+  border-radius:10px;
+  color:white;
+  text-decoration:none;
+  background-color:maroon;
+}
+
 header ul li a {
+  height:50px;
   padding-top:0;
   padding-left:7px;
   padding-right:7px;
@@ -35,6 +47,7 @@ header ul li a {
 }
 
 header ul li a:visited {
+  height:50px;
   padding-top:0;
    padding-left:7px;
   padding-right:7px;
@@ -44,6 +57,7 @@ header ul li a:visited {
 }
 
 header ul li a:hover {
+  height:50px;
   padding-top:0;
    padding-left:7px;
   padding-right:7px;
