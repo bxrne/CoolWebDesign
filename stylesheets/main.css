@@ -13,6 +13,8 @@ header {
   height: 75px;
   width:100%;
   background-color:#ccc;
+  color:white;
+  font-size:30px;
 }
 
 header ul li {
