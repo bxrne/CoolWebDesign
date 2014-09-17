@@ -63,10 +63,18 @@ section {
   position:absolute;
   top:70px;
   left:5%;
-  width: 70%;
+  width: 65%;
   height:550px;
   background-color:white;
   color:black;
-  font-size:20px;
+  font-size:26px;
   border-radius:20px;
+  font-weight:bold;
+}
+
+/*article code*/
+article {
+  color:black;
+  font-size:20px;
+  font-weight:normal;
 }
