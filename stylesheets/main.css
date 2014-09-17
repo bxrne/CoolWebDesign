@@ -8,7 +8,6 @@ clear:both;
 nav {
   height: 75px;
   width:100%;
-  border:none;
   background-color:#ccc;
   border-radius:25px;
 }
