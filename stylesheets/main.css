@@ -1,5 +1,13 @@
 body {
+background-color:#eaeaea;
 margin:0;
 padding:0;
 clear:both;
+}
+
+header {
+  height: 75px;
+  width:100%;
+  border:none;
+  background-color:#ccc;
 }
