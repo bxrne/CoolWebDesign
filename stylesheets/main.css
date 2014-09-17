@@ -54,5 +54,5 @@ header ul li a:hover {
   border-radius:10px;
   color:white;
   text-decoration:none;
-  background-color:maroon;
+  border-top: 2px solid maroon;
 }
