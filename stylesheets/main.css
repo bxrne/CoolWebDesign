@@ -6,6 +6,7 @@ clear:both;
 }
 
 nav {
+  top:0px;
   height: 75px;
   width:100%;
   background-color:#ccc;
