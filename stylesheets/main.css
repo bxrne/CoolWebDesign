@@ -65,7 +65,7 @@ section {
   top:70px;
   left:5%;
   width: 55%;
-  height:550px;
+  height:450px;
   background-color:white;
   color:black;
   font-size:26px;
@@ -87,10 +87,24 @@ article {
   top:70px;
   right:5%;
   width: 25%;
-  height:550px;
+  height:450px;
   background-color:white;
   color:black;
   font-size:26px;
   border-radius:20px;
   font-weight:bold;
+}
+
+/* footer code*/
+footer {
+  position:fixed;
+  bottom:0;
+  margin:0;
+  padding:0;
+  height: 68px;
+  width:100%;
+  background-color:#ccc;
+  color:white;
+  font-size:30px;
+  text-align:center;
 }
